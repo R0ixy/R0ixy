@@ -1,11 +1,11 @@
 ### Hi 👋 I'm R0ixy
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Startup+enthusiast.;Python+Developer+from+Ukraine.)](https://git.io/typing-svg)
+<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Startup+enthusiast.;Python+Developer+from+Ukraine.)](https://git.io/typing-svg) -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Startup+enthusiast.;Python+developer+from+Ukraine.;Think+Different.)](https://git.io/typing-svg)
 
-
-<!-- - 🔭 I’m currently working on best school.-->
-- 🎓I’m currently learning Django Rest Framework / Fast API.
-- 💬 Ready to collaborate on startups and open source projects. 
+#### - 🔭 I’m currently working on private project.
+#### - 🎓 I’m currently learning Django Rest Framework / Fast API.
+#### - 💬 Ready to collaborate on startups and open source projects. 
 
 
 ### Contact me:
@@ -31,9 +31,10 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 <br>
+<br>
 
-> "I could either watch it happen or be a part of it." 
-> -- Elon Musk
+#### > "I could either watch it happen or be a part of it." 
+#### > -- Elon Musk
 
 
 

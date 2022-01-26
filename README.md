@@ -37,7 +37,7 @@
 > -- Elon Musk
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%232E40F7&size=15&width=200&height=25&lines=Think+Different.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%232E40F7&size=18&width=200&height=30&lines=Think+Different.)](https://git.io/typing-svg)
 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=r0ixy&left_color=green&right_color=blue)

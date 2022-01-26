@@ -13,9 +13,6 @@
 [![Department_App](https://img.shields.io/static/v1?label=Department_App&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/R0ixy/epam_project)
 
 
-##### > I could either watch it happen or be a part of it. 
-##### > -- Elon Musk
-
 ### ⚡Technologies:
   
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
@@ -32,6 +29,7 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=r0ixy&hide=TeX&layout=compact)
+> I could either watch it happen or be a part of it. 
+> -- Elon Musk
   
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=r0ixy&left_color=green&right_color=blue)

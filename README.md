@@ -2,24 +2,15 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Startup+enthusiast.;Python+Developer+from+Ukraine.)](https://git.io/typing-svg)
 
-- 🎓I’m currently learning Django Rest Framework / Fast API
-- 💬 Ready to collaborate on startups and open source projects. 
 
-## My projects: 
+#### My last projects: 
 [![bsc_tokenexplorer_bot](https://img.shields.io/static/v1?label=BSC_Token_explorer_bot&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/R0ixy/BSC_bot_public)
 [![Department_App](https://img.shields.io/static/v1?label=Department_App&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/R0ixy/epam_project)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... -->
-
-- 🎓I’m currently learning Django Rest Framework / Fast API
+- 🔭 I’m currently working on best school.
+- 🎓I’m currently learning Django Rest Framework / Fast API.
 - 💬 Ready to collaborate on startups and open source projects. 
+
 
 > I could either watch it happen or be a part of it. 
 > -- Elon Musk

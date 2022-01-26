@@ -1,21 +1,20 @@
 ### Hi 👋 I'm R0ixy
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Startup+enthusiast.;Python+Developer+from+Ukraine.)](https://git.io/typing-svg)
-<hr height: 1px;>
+
 
 - 🔭 I’m currently working on best school.
 - 🎓I’m currently learning Django Rest Framework / Fast API.
 - 💬 Ready to collaborate on startups and open source projects. 
-<hr height: 1px;>
+
 
 #### Contact me:
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/nikitakom/)  
-
+<hr height: 1px;>
 
 #### My last projects: 
 [![bsc_tokenexplorer_bot](https://img.shields.io/static/v1?label=BSC_Token_explorer_bot&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/R0ixy/BSC_bot_public)
 [![Department_App](https://img.shields.io/static/v1?label=Department_App&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/R0ixy/epam_project)
-<hr height: 1px;>
 
 ### ⚡Technologies:
   
@@ -31,7 +30,7 @@
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-<hr height: 1px;>
+
 
 <br>
 

@@ -31,7 +31,7 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 <a href="https://github.com/R0xiy/R0ixy">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=R0ixy&hide=css&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=0e4429&langs_count=3" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=R0ixy&hide=css&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=22272e&langs_count=3" />
 </a>
 <br>
 <br>

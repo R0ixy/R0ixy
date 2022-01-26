@@ -46,4 +46,5 @@ Here are some ideas to get you started:
 
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=r0ixy&hide=TeX&layout=compact)
+  
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=r0ixy&left_color=green&right_color=blue)

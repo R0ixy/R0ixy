@@ -12,11 +12,6 @@
 #### - 🎓 I’m currently learning Django Rest Framework / Fast API.
 #### - 💬 Ready to collaborate on startups and open source projects. 
 
-
-<!-- ### Contact me: -->
-<!-- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/nikitakom/)   -->
-
-
 ### My last projects: 
 [![bsc_tokenexplorer_bot](https://img.shields.io/static/v1?label=BSC_Token_explorer_bot&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/R0ixy/BSC_bot_public)
 [![Department_App](https://img.shields.io/static/v1?label=Department_App&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/R0ixy/epam_project)
@@ -35,14 +30,8 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
+
 <a href="https://github.com/R0xiy/R0ixy">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=R0ixy&hide=css&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=22272e&langs_count=3" />
 </a>
-<br>
-<br>
 
-<!-- > "I could either watch it happen or be a part of it." -- Elon Musk -->
-
-
-
-<!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=r0ixy&left_color=green&right_color=blue) -->

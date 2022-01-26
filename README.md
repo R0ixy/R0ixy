@@ -29,21 +29,14 @@
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+<a href="https://github.com/R0xiy/R0ixy">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=R0ixy&hide=css&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
 <br>
 <br>
 
 > "I could either watch it happen or be a part of it." -- Elon Musk
 
 
-
-<a href="https://github.com/r0ixy/bsc_bot_public">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=r0ixy&repo=bsc_bot_public&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-<a href="https://github.com/R0ixy/epam_project">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=R0ixy&repo=epam_project&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>    
-<a href="https://github.com/R0xiy/R0ixy">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=R0ixy&hide=css&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-</a>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=r0ixy&left_color=green&right_color=blue)

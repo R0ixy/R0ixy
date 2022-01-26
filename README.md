@@ -10,7 +10,7 @@
 
 ### Contact me:
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/nikitakom/)  
-<hr height: 1px;>
+
 
 ### My last projects: 
 [![bsc_tokenexplorer_bot](https://img.shields.io/static/v1?label=BSC_Token_explorer_bot&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/R0ixy/BSC_bot_public)
@@ -34,6 +34,20 @@
 
 > "I could either watch it happen or be a part of it." -- Elon Musk
 
+
+
+<a href="https://github.com/MartinHeinz/MartinHeinz">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=R0ixy&hide=css&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
+<a href="https://github.com/MartinHeinz/MartinHeinz">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=r0ixy&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+</a>
+<a href="https://github.com/r0ixy/bsc_bot_public">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=r0ixy&repo=bsc_bot_public&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+<a href="https://github.com/R0ixy/epam_project">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=R0ixy&repo=epam_project&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>    
 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=r0ixy&left_color=green&right_color=blue)

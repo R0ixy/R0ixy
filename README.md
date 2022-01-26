@@ -8,7 +8,7 @@
 
 > "I could either watch it happen or be a part of it." -- Elon Musk
 
-#### - 🔭 I’m currently working on private project.
+<!-- #### - 🔭 I’m currently working on private project. -->
 #### - 🎓 I’m currently learning Django Rest Framework / Fast API.
 #### - 💬 Ready to collaborate on startups and open source projects. 
 

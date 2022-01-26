@@ -36,15 +36,14 @@
 
 
 
-<a href="https://github.com/R0xiy/R0ixy">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=R0ixy&hide=css&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-</a>
 <a href="https://github.com/r0ixy/bsc_bot_public">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=r0ixy&repo=bsc_bot_public&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 <a href="https://github.com/R0ixy/epam_project">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=R0ixy&repo=epam_project&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>    
-
+<a href="https://github.com/R0xiy/R0ixy">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=R0ixy&hide=css&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=r0ixy&left_color=green&right_color=blue)

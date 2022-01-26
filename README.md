@@ -15,8 +15,8 @@
 ### My last projects: 
 [![bsc_tokenexplorer_bot](https://img.shields.io/static/v1?label=BSC_Token_explorer_bot&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/R0ixy/BSC_bot_public)
 [![Department_App](https://img.shields.io/static/v1?label=Department_App&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/R0ixy/epam_project)
-### ⚡Technologies:
-  
+
+### ⚡Technologies:  
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) 
 ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)

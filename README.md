@@ -2,6 +2,7 @@
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Startup+enthusiast.;Python+Developer+from+Ukraine.)](https://git.io/typing-svg) -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Startup+enthusiast.;Python+developer+from+Ukraine.;Think+Different.)](https://git.io/typing-svg)
+
 [![Linkedin Badge](https://img.shields.io/badge/-Nikitakom-blue?style=round-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nikitakom)](https://www.linkedin.com/in/nikitakom)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=r0ixy&left_color=green&right_color=blue)
 #### - 🔭 I’m currently working on private project.
@@ -9,8 +10,8 @@
 #### - 💬 Ready to collaborate on startups and open source projects. 
 
 
-### Contact me:
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/nikitakom/)  
+<!-- ### Contact me: -->
+<!-- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/nikitakom/)   -->
 
 
 ### My last projects: 

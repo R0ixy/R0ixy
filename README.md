@@ -1,5 +1,5 @@
-### Hi 👋 I'm [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=R0ixy;Nikita)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Python+developer;Startup+enthusiast.+)](https://git.io/typing-svg)
+<h4>Hi 👋 I'm [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=R0ixy;Nikita)](https://git.io/typing-svg)</h>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Startup+enthusiast.;+Python+developer;)](https://git.io/typing-svg)
 <!-- ### Hi 👋 I'm Nikita
 #### 💻Python Developer from Kharkiv. 
 ##### 📌Startup enthusiast.  -->

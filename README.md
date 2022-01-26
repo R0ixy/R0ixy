@@ -5,6 +5,9 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-Nikitakom-blue?style=round-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nikitakom)](https://www.linkedin.com/in/nikitakom)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=r0ixy&left_color=green&right_color=blue)
+
+> "I could either watch it happen or be a part of it." -- Elon Musk
+
 #### - 🔭 I’m currently working on private project.
 #### - 🎓 I’m currently learning Django Rest Framework / Fast API.
 #### - 💬 Ready to collaborate on startups and open source projects. 
@@ -38,7 +41,7 @@
 <br>
 <br>
 
-> "I could either watch it happen or be a part of it." -- Elon Musk
+<!-- > "I could either watch it happen or be a part of it." -- Elon Musk -->
 
 
 

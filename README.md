@@ -1,4 +1,4 @@
-<h4> Hi 👋 I'm R0ixy
+### Hi 👋 I'm R0ixy
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Startup+enthusiast.;Python+Developer+from+Ukraine.)](https://git.io/typing-svg)
 <!-- ### Hi 👋 I'm Nikita

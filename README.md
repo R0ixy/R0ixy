@@ -4,7 +4,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&vCenter=true&height=30&lines=Startup+enthusiast.;Python+developer+from+Ukraine.;Think+Different.)](https://git.io/typing-svg)
 
 [![Linkedin Badge](https://img.shields.io/badge/-Nikitakom-blue?style=round-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nikitakom)](https://www.linkedin.com/in/nikitakom)
-[![visitors](https://visitor-badge.glitch.me/badge?page_id=r0ixy&left_color=green&right_color=blue)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=r0ixy&left_color=green&right_color=blue)
 
 > "I could either watch it happen or be a part of it." -- Elon Musk
 

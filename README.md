@@ -1,6 +1,6 @@
 <h4> Hi 👋 I'm R0ixy
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Startup+enthusiast.;Python+Developer+from+Ukraine)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Startup+enthusiast.;Python+Developer+from+Ukraine.)](https://git.io/typing-svg)
 <!-- ### Hi 👋 I'm Nikita
 #### 💻Python Developer from Kharkiv. 
 ##### 📌Startup enthusiast.  -->
@@ -25,6 +25,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
+- 🎓I’m currently learning Django Rest Framework / Fast API
+- 💬 Ready to collaborate on startups and open source projects. 
 
 > I could either watch it happen or be a part of it. 
 > -- Elon Musk

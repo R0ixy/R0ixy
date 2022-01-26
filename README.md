@@ -33,13 +33,11 @@
 
 
 <br>
-
 > "I could either watch it happen or be a part of it." 
 > -- Elon Musk
-
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%232E40F7&width=300&height=30&lines=Think+Different.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%232E40F7&size=15&width=200&height=25&lines=Think+Different.)](https://git.io/typing-svg)
 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=r0ixy&left_color=green&right_color=blue)

@@ -2,7 +2,8 @@
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Startup+enthusiast.;Python+Developer+from+Ukraine.)](https://git.io/typing-svg) -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Startup+enthusiast.;Python+developer+from+Ukraine.;Think+Different.)](https://git.io/typing-svg)
-
+[![Linkedin Badge](https://img.shields.io/badge/-Nikitakom-blue?style=round-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nikitakom)](https://www.linkedin.com/in/nikitakom)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=r0ixy&left_color=green&right_color=blue)
 #### - 🔭 I’m currently working on private project.
 #### - 🎓 I’m currently learning Django Rest Framework / Fast API.
 #### - 💬 Ready to collaborate on startups and open source projects. 
@@ -40,4 +41,4 @@
 
 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=r0ixy&left_color=green&right_color=blue)
+<!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=r0ixy&left_color=green&right_color=blue) -->

@@ -32,10 +32,9 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 
-<br>
 > "I could either watch it happen or be a part of it." 
 > -- Elon Musk
-<br>
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%232E40F7&size=18&width=200&height=30&lines=Think+Different.)](https://git.io/typing-svg)
 

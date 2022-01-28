@@ -1,14 +1,14 @@
-### Hi 👋 I'm R0ixy
-
+### Hi 👋 I'm Nikita
+<!-- But you also can call me R0ixy. -->
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Startup+enthusiast.;Python+Developer+from+Ukraine.)](https://git.io/typing-svg) -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&vCenter=true&height=30&lines=Startup+enthusiast.;Python+developer+from+Ukraine.;Think+Different.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&vCenter=true&height=30&lines=Python+developer+from+Ukraine.;Startup+enthusiast.;Think+Different.)](https://git.io/typing-svg)
 
 [![Linkedin Badge](https://img.shields.io/badge/-Nikitakom-blue?style=round-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nikitakom)](https://www.linkedin.com/in/nikitakom)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=r0ixy&left_color=green&right_color=blue)
 
 > "I could either watch it happen or be a part of it." -- Elon Musk
 
-<!-- #### - 🔭 I’m currently working on private project. -->
+<!-- #### - 🔭 I’m currently working on ... . -->
 #### - 🎓 I’m currently learning Django Rest Framework / Fast API.
 #### - 💬 Ready to collaborate on startups and open source projects. 
 

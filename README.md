@@ -9,7 +9,7 @@
 > "I could either watch it happen or be a part of it." -- Elon Musk
 
 <!-- #### - 🔭 I’m currently working on ... . -->
-#### - 🎓 I’m currently learning Django Rest Framework / Fast API.
+#### - 🎓 I’m currently learning Fast API / React.
 #### - 💬 Ready to collaborate on startups and open source projects. 
 
 ### 💼My last projects: 

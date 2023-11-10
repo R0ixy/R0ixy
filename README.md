@@ -1,7 +1,7 @@
 ### Hi 👋 I'm Nikita
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&vCenter=true&height=30&lines=Full-Stack+developer+from+Ukraine.;Startup+enthusiast.;Think+Different.)](https://git.io/typing-svg)
 
-> "I could either watch it happen or be a part of it." -- Elon Musk
+[//]: # (> "I could either watch it happen or be a part of it." -- Elon Musk)
 
 [//]: # (<!-- #### - 🔭 I’m currently working on ... . -->)
 
@@ -55,4 +55,4 @@
 [![Instagram Badge](https://img.shields.io/badge/-R0ixy-000?style=round-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/r0ixy/)](https://www.instagram.com/r0ixy/)
 [![Twitter Badge](https://img.shields.io/badge/-Efirium-000?style=round-square&logo=Twitter&logoColor=white&link=https://twitter.com/zefirium)](https://twitter.com/zefirium)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=r0ixy&left_color=green&right_color=blue)
+[//]: # (![visitors]&#40;https://visitor-badge.glitch.me/badge?page_id=r0ixy&left_color=green&right_color=blue&#41;)

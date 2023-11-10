@@ -1,4 +1,5 @@
 ### Hi 👋 I'm Nikita
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&vCenter=true&height=30&lines=Full-Stack+developer+from+Ukraine.;Startup+enthusiast.;Think+Different.)](https://git.io/typing-svg)
 
 [//]: # (> "I could either watch it happen or be a part of it." -- Elon Musk)

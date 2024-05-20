@@ -1,6 +1,6 @@
 ### Hi 👋 I'm Nikita
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&vCenter=true&height=30&lines=Startup-engineer.;Think+Different.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&vCenter=true&height=30&lines=Startup+engineer.;Think+Different.)](https://git.io/typing-svg)
 
 [//]: # (> "I could either watch it happen or be a part of it." -- Elon Musk)
 
@@ -52,6 +52,6 @@
 [![Instagram Badge](https://img.shields.io/badge/-R0ixy-000?style=round-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/r0ixy/)](https://www.instagram.com/r0ixy/)
 
 ### Follow:
-[![Telegram Badge](https://img.shields.io/badge/-StartupersDiary-000?style=round-square&logo=Telegram&logoColor=white&link=https://t.me/startupersdiary)](https://t.me/startupersdiary)
+[![Telegram Badge](https://img.shields.io/badge/-Startupers+Diary-000?style=round-square&logo=Telegram&logoColor=white&link=https://t.me/startupersdiary)](https://t.me/startupersdiary)
 
 [//]: # (![visitors]&#40;https://visitor-badge.glitch.me/badge?page_id=r0ixy&left_color=green&right_color=blue&#41;)

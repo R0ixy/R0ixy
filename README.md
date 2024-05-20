@@ -13,7 +13,7 @@
 [//]: # (#### - 💬 Ready to collaborate on startups and open source projects. )
 ### 💼My last projects: 
 [![Autoline](https://img.shields.io/static/v1?label=Autoline&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/BinaryStudioAcademy/bsa-2022-autoline)
-[![Replicated Log](https://img.shields.io/static/v1?label=Replicated-Log&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/R0ixy/replicated-log)
+[![Replicated Log](https://img.shields.io/static/v1?label=Replicated+Log&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/R0ixy/replicated-log)
 
 ### ⚡Technologies:  
 

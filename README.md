@@ -1,6 +1,6 @@
 ### Hi 👋 I'm Nikita
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&vCenter=true&height=30&lines=Full-Stack+developer+from+Ukraine.;Startup+enthusiast.;Think+Different.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&vCenter=true&height=30&lines=Startup-engineer.;Think+Different.)](https://git.io/typing-svg)
 
 [//]: # (> "I could either watch it happen or be a part of it." -- Elon Musk)
 
@@ -14,9 +14,7 @@
 ### 💼My last projects: 
 [![Autoline](https://img.shields.io/static/v1?label=Autoline&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/BinaryStudioAcademy/bsa-2022-autoline)
 
-[//]: # ([![bsc_tokenexplorer_bot]&#40;https://img.shields.io/static/v1?label=BSC_token_explorer_bot&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605&#41;]&#40;https://github.com/R0ixy/BSC_bot_public&#41;)
-
-[//]: # ([![Department_App]&#40;https://img.shields.io/static/v1?label=Department_app&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605&#41;]&#40;https://github.com/R0ixy/epam_project&#41;)
+[![Replicated Log](https://img.shields.io/static/v1?label=Replicated-Log&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/R0ixy/replicated-log)
 
 ### ⚡Technologies:  
 
@@ -50,10 +48,11 @@
 
 [//]: # ([![Top Langs]&#40;https://github-readme-stats.vercel.app/api/top-langs/?username=r0ixy&layout=compact&#41;]&#40;https://github.com/anuraghazra/github-readme-stats&#41;)
 
-### Contact me:
+### Keep in touch:
 [![Linkedin Badge](https://img.shields.io/badge/-Nikitakom-000?style=round-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nikitakom)](https://www.linkedin.com/in/nikitakom)
-[![Telegram Badge](https://img.shields.io/badge/-Nikitakom-000?style=round-square&logo=Telegram&logoColor=white&link=https://t.me/nikitakom)](https://t.me/nikitakom)
 [![Instagram Badge](https://img.shields.io/badge/-R0ixy-000?style=round-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/r0ixy/)](https://www.instagram.com/r0ixy/)
-[![Twitter Badge](https://img.shields.io/badge/-Efirium-000?style=round-square&logo=Twitter&logoColor=white&link=https://twitter.com/zefirium)](https://twitter.com/zefirium)
+
+### Follow:
+[![Telegram Badge](https://img.shields.io/badge/-StartupersDiary-000?style=round-square&logo=Telegram&logoColor=white&link=https://t.me/startupersdiary)](https://t.me/startupersdiary)
 
 [//]: # (![visitors]&#40;https://visitor-badge.glitch.me/badge?page_id=r0ixy&left_color=green&right_color=blue&#41;)

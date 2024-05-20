@@ -13,7 +13,6 @@
 [//]: # (#### - 💬 Ready to collaborate on startups and open source projects. )
 ### 💼My last projects: 
 [![Autoline](https://img.shields.io/static/v1?label=Autoline&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/BinaryStudioAcademy/bsa-2022-autoline)
-
 [![Replicated Log](https://img.shields.io/static/v1?label=Replicated-Log&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/R0ixy/replicated-log)
 
 ### ⚡Technologies:  
@@ -53,6 +52,6 @@
 [![Instagram Badge](https://img.shields.io/badge/-R0ixy-000?style=round-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/r0ixy/)](https://www.instagram.com/r0ixy/)
 
 ### Follow:
-[![Telegram Badge](https://img.shields.io/badge/-StartupersDiary-000?style=round-square&logo=Telegram&logoColor=white&link=https://t.me/startupersdiary)](https://t.me/startupersdiary)
+[![Telegram Badge](https://img.shields.io/badge/-Startupers-Diary-000?style=round-square&logo=Telegram&logoColor=white&link=https://t.me/startupersdiary)](https://t.me/startupersdiary)
 
 [//]: # (![visitors]&#40;https://visitor-badge.glitch.me/badge?page_id=r0ixy&left_color=green&right_color=blue&#41;)

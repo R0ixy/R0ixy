@@ -1,4 +1,4 @@
-### Hi 👋 I'm Nikita
+### Hi 👋 I'm Mykyta
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&vCenter=true&height=30&lines=Startup+engineer.;Think+Different.)](https://git.io/typing-svg)
 
